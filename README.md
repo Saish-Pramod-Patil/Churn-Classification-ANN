@@ -46,6 +46,13 @@ Ensure these dependencies are installed to run the app locally.
    ```bash
    git clone <repo-link>
    cd <repo-directory>
+2. Install the required dependencies.
+```bash
+pip install -r requirements.txt
+
+3. Run the Streamlit app.
+```bash
+streamlit run app.py
 
 ---
 
