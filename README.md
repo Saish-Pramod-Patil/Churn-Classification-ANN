@@ -50,7 +50,7 @@ Ensure these dependencies are installed to run the app locally.
 ---
 
 ## 🧠 Model Details
-**Architecture:** Simple ANN with fully connected layers.
-**Framework:** TensorFlow.
-**Preprocessing:** Handled using Pandas and Scikit-learn.
-**Visualization:** Insights into the model performance visualized using tensorboard.
+- **Architecture:** Simple ANN with fully connected layers.
+- **Framework:** TensorFlow.
+- **Preprocessing:** Handled using Pandas and Scikit-learn.
+- **Visualization:** Insights into the model performance visualized using tensorboard.
