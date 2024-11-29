@@ -46,3 +46,9 @@ Ensure these dependencies are installed to run the app locally.
    ```bash
    git clone <repo-link>
    cd <repo-directory>
+
+🧠 Model Details
+Architecture: Simple ANN with fully connected layers.
+Framework: TensorFlow.
+Preprocessing: Handled using Pandas and Scikit-learn.
+Visualization: Insights into the data and model performance visualized using Matplotlib and Seaborn.
